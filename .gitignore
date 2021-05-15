@@ -10,3 +10,4 @@ data
 *.egg-info
 *.json
 *.txt
+pysak/__pycache__
