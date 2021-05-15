@@ -1,0 +1,12 @@
+/.idea
+/.vscode
+.env
+.DS_Store
+test
+build
+dist
+data
+*.bak
+*.egg-info
+*.json
+*.txt
