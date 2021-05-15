@@ -1,6 +1,6 @@
 <p align="center"><img src="static/img/logo.png" alt="Sak" height="100px"></p>
 
-🍉 pysak 是一个简单、强大、干净的python公共函数库。
+🍉 pysak 是一个简单、强大、干净的python公共函数库。 
 
 - [安装](#安装)
     - [依赖库](#依赖库)
